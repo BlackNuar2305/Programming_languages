@@ -1,0 +1,15 @@
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\bin\Debug\net6.0\Example001.exe
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\bin\Debug\net6.0\Example001.deps.json
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\bin\Debug\net6.0\Example001.runtimeconfig.json
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\bin\Debug\net6.0\Example001.dll
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\bin\Debug\net6.0\Example001.pdb
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.dll
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\refint\Example001.dll
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.pdb
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
+C:\Users\hasae\Desktop\programming_languages\vebinar_2602\Example001\obj\Debug\net6.0\ref\Example001.dll
